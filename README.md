@@ -1,6 +1,10 @@
 ### Ola! Eu sou o Cleuson Jr
 
-- 🌱 Estudando C e (HTML,JavaScript,CSS)
+- 🎓 Sou uma estudante de Engenharia de Software
+- 🌱 Atualmente estou estudando stack Front-End e (HTML, JavaScript, CSS)
+- 📫 Você pode entrar em contato comigo em cleusonevanjr@gmail.com
+
+
 
 <div align="center">
   <a href="https://github.com/CleusonJr">
