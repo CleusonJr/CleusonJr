@@ -1,8 +1,8 @@
 ### Ola! Eu sou o Cleuson Jr
 
 - 🎓 Sou uma estudante de Engenharia de Software
-- 🌱 Atualmente estou estudando stack Front-End e (HTML, JavaScript, CSS) e um pouco ded C
-- 📫 Você pode entrar em contato comigo em cleusonevanjr@gmail.com
+- 🌱 Atualmente estou estudando stack Front-End  (Alura)
+
 
 
 
